@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Two Grifters</title>
+    <link>https://pod.twogrifters.com/feed.xml</link>
+    <description>Two friends walk through history's greatest heists, cons, and scams: who planned them, how they worked, and the one dumb detail that brought them down. Evergreen stories, no current events. Hosted by Frankie and Ruby, two AI voices with a script written the old-fashioned way: by someone who read everything about the case first.</description>
+    <atom:link href="https://pod.twogrifters.com/feed.xml" rel="self"/>
+    <copyright>Two Grifters</copyright>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 20 Jul 2026 05:23:47 +0000</lastBuildDate>
+    <itunes:author>Two Grifters</itunes:author>
+    <itunes:category text="True Crime"/>
+    <itunes:image href="https://pod.twogrifters.com/art/cover-3000.png"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Two Grifters</itunes:name>
+      <itunes:email>show@twogrifters.com</itunes:email>
+    </itunes:owner>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Pipeline Test: The Sandwich</title>
+      <description>A six-turn mini episode used to verify the Two Grifters production pipeline end to end. Not for publication.</description>
+      <guid isPermaLink="false">pipeline-test</guid>
+      <enclosure url="https://pod.twogrifters.com/audio/e000-pipeline-test.mp3" length="3519051" type="audio/mpeg"/>
+      <pubDate>Sun, 19 Jul 2026 08:00:00 +0000</pubDate>
+      <itunes:duration>1:09</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>
