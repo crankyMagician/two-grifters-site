@@ -3,13 +3,13 @@
   <channel>
     <title>Two Grifters</title>
     <link>https://pod.twogrifters.com/feed.xml</link>
-    <description>Two friends walk through history's greatest heists, cons, and scams: who planned them, how they worked, and the one dumb detail that brought them down. Evergreen stories, no current events. Hosted by Frankie and Ruby, two AI voices with a script written the old-fashioned way: by someone who read everything about the case first.</description>
+    <description>Two friends walk through history's greatest heists, cons, and scams: who planned them, how they worked, and the one dumb detail that brought them down. Hosted by Frankie and Ruby. Every episode is built from the historical record, and the sources are in the show notes.</description>
     <atom:link href="https://pod.twogrifters.com/feed.xml" rel="self"/>
     <copyright>Two Grifters</copyright>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Jul 2026 05:32:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 05:48:05 +0000</lastBuildDate>
     <itunes:author>Two Grifters</itunes:author>
     <itunes:category text="True Crime"/>
     <itunes:image href="https://pod.twogrifters.com/art/cover-3000.png"/>
@@ -21,11 +21,16 @@
     <itunes:type>episodic</itunes:type>
     <item>
       <title>The Antwerp Diamond Heist: Beaten by a Sandwich</title>
-      <description>In February 2003, a crew of Italian thieves emptied 109 safe deposit boxes beneath the most secure building in the world's diamond capital, without tripping a single alarm. They beat a three-ton vault door, seismic sensors, and a lock with one hundred million combinations. Then a half-eaten salami sandwich brought the whole thing down.</description>
+      <description>In February 2003, a crew of Italian thieves emptied 109 safe deposit boxes beneath the most secure building in the world's diamond capital, without tripping a single alarm. They beat a three-ton vault door, seismic sensors, and a lock with one hundred million combinations. Then a half-eaten salami sandwich brought the whole thing down.
+
+Sources:
+- Joshua Davis, 'The Untold Story of the World's Biggest Diamond Heist,' Wired, March 2009: https://www.wired.com/2009/03/ff-diamonds-2/
+- Scott Andrew Selby and Greg Campbell, 'Flawless: Inside the Largest Diamond Heist in History,' Union Square Press, 2010
+- BBC News coverage of the February 2003 Antwerp Diamond Centre theft and the 2005 trial of Leonardo Notarbartolo</description>
       <guid isPermaLink="false">antwerp-diamond-heist</guid>
-      <enclosure url="https://pod.twogrifters.com/audio/e001-antwerp-diamond-heist.mp3" length="13766770" type="audio/mpeg"/>
+      <enclosure url="https://pod.twogrifters.com/audio/e001-antwerp-diamond-heist.mp3" length="14378019" type="audio/mpeg"/>
       <pubDate>Mon, 20 Jul 2026 08:00:00 +0000</pubDate>
-      <itunes:duration>11:49</itunes:duration>
+      <itunes:duration>12:27</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episode>1</itunes:episode>
     </item>

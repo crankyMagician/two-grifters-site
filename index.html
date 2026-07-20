@@ -4,17 +4,65 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Two Grifters</title>
+<meta name="description" content="Two friends walk through history&#x27;s greatest heists, cons, and scams: who planned them, how they worked, and the one dumb detail that brought them down">
+<link rel="alternate" type="application/rss+xml" title="Two Grifters" href="/feed.xml">
 <style>
-  body { font-family: Georgia, serif; background: #0e3b32; color: #f2e8d5; max-width: 640px; margin: 8vh auto; padding: 0 24px; }
-  h1 { color: #eaa821; letter-spacing: .08em; }
-  a { color: #eaa821; }
-  img { max-width: 280px; border-radius: 12px; display: block; margin-bottom: 24px; }
+  :root { --bg: #0e3b32; --panel: #0a2e27; --ink: #f2e8d5; --gold: #eaa821; --muted: #b8ccc3; }
+  * { box-sizing: border-box; }
+  body { font-family: Georgia, 'Times New Roman', serif; background: var(--bg); color: var(--ink);
+         margin: 0; line-height: 1.6; }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 48px 24px 96px; }
+  header { text-align: center; margin-bottom: 48px; }
+  header img { width: 260px; max-width: 70vw; border-radius: 14px; border: 3px solid var(--gold);
+                box-shadow: 0 12px 40px rgba(0,0,0,.45); }
+  h1 { color: var(--gold); letter-spacing: .12em; font-size: 2rem; margin: 24px 0 8px; }
+  .tagline { color: var(--muted); font-style: italic; margin: 0 0 20px; }
+  .subscribe a { display: inline-block; color: var(--gold); border: 1px solid var(--gold);
+                  border-radius: 999px; padding: 6px 18px; margin: 4px; text-decoration: none;
+                  font-size: .9rem; letter-spacing: .05em; }
+  .subscribe a:hover { background: var(--gold); color: var(--bg); }
+  .episode { background: var(--panel); border-radius: 14px; padding: 24px 28px; margin: 24px 0;
+              border: 1px solid rgba(234,168,33,.25); }
+  .episode h2 { color: var(--gold); font-size: 1.25rem; margin: 0 0 4px; }
+  .episode .meta { color: var(--muted); font-size: .85rem; margin-bottom: 12px; }
+  .episode audio { width: 100%; margin: 12px 0; }
+  .episode p { margin: 8px 0; }
+  details { margin-top: 10px; }
+  summary { color: var(--gold); cursor: pointer; font-size: .9rem; }
+  details ul { margin: 8px 0 0; padding-left: 20px; color: var(--muted); font-size: .9rem; }
+  details a { color: var(--muted); }
+  footer { text-align: center; color: var(--muted); font-size: .85rem; margin-top: 64px; }
+  footer a { color: var(--gold); }
 </style>
 </head>
 <body>
-<img src="/art/cover-3000.png" alt="Two Grifters cover art">
-<h1>TWO GRIFTERS</h1>
-<p>Heists, cons, and the people who almost got away with it. Two friends walk through history's greatest schemes: who planned them, how they worked, and the one dumb detail that brought them down.</p>
-<p><a href="/feed.xml">RSS feed</a></p>
+<div class="wrap">
+<header>
+  <img src="/art/cover-3000.png" alt="Two Grifters cover art">
+  <h1>TWO GRIFTERS</h1>
+  <p class="tagline">Heists, cons, and the people who almost got away with it</p>
+  <p class="subscribe"><a href="/feed.xml">RSS</a></p>
+</header>
+<main>
+<article class="episode">
+  <h2>The Antwerp Diamond Heist: Beaten by a Sandwich</h2>
+  <div class="meta">Episode 1 · July 20, 2026 · 12:27</div>
+  <audio controls preload="none" src="/audio/e001-antwerp-diamond-heist.mp3"></audio>
+  <p>In February 2003, a crew of Italian thieves emptied 109 safe deposit boxes beneath the most secure building in the world&#x27;s diamond capital, without tripping a single alarm. They beat a three-ton vault door, seismic sensors, and a lock with one hundred million combinations. Then a half-eaten salami sandwich brought the whole thing down.</p>
+  <details><summary>Sources</summary><ul><li>Joshua Davis, &#x27;The Untold Story of the World&#x27;s Biggest Diamond Heist,&#x27; Wired, March 2009: <a href="https://www.wired.com/2009/03/ff-diamonds-2/">https://www.wired.com/2009/03/ff-diamonds-2/</a></li><li>Scott Andrew Selby and Greg Campbell, &#x27;Flawless: Inside the Largest Diamond Heist in History,&#x27; Union Square Press, 2010</li><li>BBC News coverage of the February 2003 Antwerp Diamond Centre theft and the 2005 trial of Leonardo Notarbartolo</li></ul></details>
+</article>
+<article class="episode">
+  <h2>Pipeline Test: The Sandwich</h2>
+  <div class="meta">Episode 0 · July 19, 2026 · 1:09</div>
+  <audio controls preload="none" src="/audio/e000-pipeline-test.mp3"></audio>
+  <p>A six-turn mini episode used to verify the Two Grifters production pipeline end to end. Not for publication.</p>
+
+</article>
+</main>
+<footer>
+  <p>An independent show. Sources for every episode are in the show notes.</p>
+  <p><a href="/feed.xml">RSS feed</a></p>
+</footer>
+</div>
 </body>
 </html>
