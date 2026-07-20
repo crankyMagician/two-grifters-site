@@ -9,7 +9,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Jul 2026 22:47:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 23:38:39 +0000</lastBuildDate>
     <itunes:author>Two Grifters</itunes:author>
     <itunes:category text="True Crime"/>
     <itunes:image href="https://pod.twogrifters.com/art/cover-3000.png"/>
@@ -19,6 +19,23 @@
       <itunes:email>show@twogrifters.com</itunes:email>
     </itunes:owner>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>The Count Who Sold the Eiffel Tower. Twice.</title>
+      <description>In the spring of 1925, a man with printed letterhead and a borrowed title invited Paris's biggest scrap dealers to a grand hotel and sold one of them the Eiffel Tower. Nobody reported it, so he came back and sold it again. The story of Count Victor Lustig: the money box, the tower, the counterfeit hundreds that spooked the Treasury, and a daylight escape down the side of a New York jail.
+
+Sources:
+- Jeff Maysh, 'The Man Who Sold the Eiffel Tower. Twice.', Smithsonian Magazine, March 2016
+- James F. Johnson and Floyd Miller, 'The Man Who Sold the Eiffel Tower,' Doubleday, 1961
+- United States Penitentiary, Alcatraz, inmate records for register no. 300 (Robert V. Miller, alias Victor Lustig), U.S. National Archives
+- New York Times reporting on the September 1935 escape from the Federal House of Detention and the Pittsburgh recapture
+- La Tour Eiffel official site, history section: 'Who sold the Eiffel Tower?'</description>
+      <guid isPermaLink="false">victor-lustig</guid>
+      <enclosure url="https://pod.twogrifters.com/audio/e003-victor-lustig.mp3" length="19359938" type="audio/mpeg"/>
+      <pubDate>Mon, 20 Jul 2026 08:00:00 +0000</pubDate>
+      <itunes:duration>17:38</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>3</itunes:episode>
+    </item>
     <item>
       <title>The Great Train Robbery: Undone by a Monopoly Board</title>
       <description>In August 1963, fifteen men stopped the Glasgow to London mail train at a rigged red signal in the Buckinghamshire countryside and unloaded 2.6 million pounds in used banknotes in under half an hour. No guns fired, no alarm raised, the biggest cash robbery Britain had ever seen. Then they holed up in a farmhouse to wait out the manhunt, and somebody dealt out a game of Monopoly.
@@ -55,9 +72,9 @@ Sources:
       <title>Pipeline Test: The Sandwich</title>
       <description>A six-turn mini episode used to verify the Two Grifters production pipeline end to end. Not for publication.</description>
       <guid isPermaLink="false">pipeline-test</guid>
-      <enclosure url="https://pod.twogrifters.com/audio/e000-pipeline-test.mp3" length="3519051" type="audio/mpeg"/>
+      <enclosure url="https://pod.twogrifters.com/audio/e000-pipeline-test.mp3" length="3498969" type="audio/mpeg"/>
       <pubDate>Sun, 19 Jul 2026 08:00:00 +0000</pubDate>
-      <itunes:duration>1:09</itunes:duration>
+      <itunes:duration>1:08</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
