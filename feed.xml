@@ -9,7 +9,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Jul 2026 05:48:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 22:47:40 +0000</lastBuildDate>
     <itunes:author>Two Grifters</itunes:author>
     <itunes:category text="True Crime"/>
     <itunes:image href="https://pod.twogrifters.com/art/cover-3000.png"/>
@@ -19,6 +19,23 @@
       <itunes:email>show@twogrifters.com</itunes:email>
     </itunes:owner>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>The Great Train Robbery: Undone by a Monopoly Board</title>
+      <description>In August 1963, fifteen men stopped the Glasgow to London mail train at a rigged red signal in the Buckinghamshire countryside and unloaded 2.6 million pounds in used banknotes in under half an hour. No guns fired, no alarm raised, the biggest cash robbery Britain had ever seen. Then they holed up in a farmhouse to wait out the manhunt, and somebody dealt out a game of Monopoly.
+
+Sources:
+- Piers Paul Read, 'The Train Robbers,' W.H. Allen, 1978
+- Bruce Reynolds, 'The Autobiography of a Thief,' Bantam Press, 1995
+- Nick Russell-Pavier and Stewart Richards, 'The Great Train Robbery: Crime of the Century,' Weidenfeld &amp; Nicolson, 2013
+- The National Archives (UK), case files on the 1963 Cheddington mail train robbery, DPP 2/3715 series and HO 287/1496
+- BBC News coverage of the robbery's fiftieth anniversary and the December 2013 obituary of Ronnie Biggs</description>
+      <guid isPermaLink="false">great-train-robbery</guid>
+      <enclosure url="https://pod.twogrifters.com/audio/e002-great-train-robbery.mp3" length="36067637" type="audio/mpeg"/>
+      <pubDate>Mon, 20 Jul 2026 08:00:00 +0000</pubDate>
+      <itunes:duration>35:02</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>2</itunes:episode>
+    </item>
     <item>
       <title>The Antwerp Diamond Heist: Beaten by a Sandwich</title>
       <description>In February 2003, a crew of Italian thieves emptied 109 safe deposit boxes beneath the most secure building in the world's diamond capital, without tripping a single alarm. They beat a three-ton vault door, seismic sensors, and a lock with one hundred million combinations. Then a half-eaten salami sandwich brought the whole thing down.
