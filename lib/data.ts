@@ -14,7 +14,7 @@ export interface Show {
   feedPath: string;
   email: string;
   art: { full: string; display: string; og: string };
-  links: { apple: string; spotify: string };
+  links: { apple: string; spotify: string; tiktok: string; instagram: string };
 }
 
 export interface Chapter {
