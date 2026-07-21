@@ -68,7 +68,7 @@ export default async function EpisodePage({ params }: Props) {
           ← All episodes
         </Link>
       </p>
-      <h1 className="font-display mb-2 text-3xl font-semibold leading-tight text-gold">
+      <h1 className="font-display mb-2 text-2xl font-semibold leading-tight text-gold sm:text-3xl">
         {episode.title}
       </h1>
       <p className="mb-6 text-sm text-muted">

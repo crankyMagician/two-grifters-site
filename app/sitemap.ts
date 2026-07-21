@@ -12,6 +12,11 @@ export default function sitemap(): MetadataRoute.Sitemap {
       lastModified: newest,
       priority: 1,
     },
+    {
+      url: absoluteUrl("/about/"),
+      lastModified: newest,
+      priority: 0.5,
+    },
     ...episodes.map((episode) => ({
       url: absoluteUrl(episodePath(episode)),
       lastModified: episode.published,
