@@ -1,0 +1,668 @@
+{
+  "id": "e002",
+  "number": 2,
+  "slug": "victor-lustig",
+  "title": "The Count Who Sold the Eiffel Tower. Twice.",
+  "description": "In the spring of 1925, a man with printed letterhead and a borrowed title invited Paris's biggest scrap dealers to a grand hotel and sold one of them the Eiffel Tower. Nobody reported it, so he came back and sold it again. The story of Count Victor Lustig: the money box, the tower, the counterfeit hundreds that spooked the Treasury, and a daylight escape down the side of a New York jail.",
+  "published": "2026-07-20",
+  "explicit": false,
+  "durationSec": 1079,
+  "audio": {
+    "path": "/audio/e002-victor-lustig.mp3",
+    "bytes": 17794260,
+    "type": "audio/mpeg"
+  },
+  "chapters": [
+    {
+      "title": "Cold Open",
+      "startMs": 3000
+    },
+    {
+      "title": "A Man With No Birthday",
+      "startMs": 75850
+    },
+    {
+      "title": "The Money Box",
+      "startMs": 177250
+    },
+    {
+      "title": "Paris, May 1925",
+      "startMs": 339920
+    },
+    {
+      "title": "The Second Sale",
+      "startMs": 575710
+    },
+    {
+      "title": "The Money Factory",
+      "startMs": 682860
+    },
+    {
+      "title": "The Window Washer",
+      "startMs": 810750
+    },
+    {
+      "title": "Where Everyone Ended Up",
+      "startMs": 899590
+    },
+    {
+      "title": "Outro",
+      "startMs": 1014300
+    }
+  ],
+  "sources": [
+    {
+      "text": "Jeff Maysh, 'The Man Who Sold the Eiffel Tower. Twice.', Smithsonian Magazine, March 2016",
+      "url": null
+    },
+    {
+      "text": "James F. Johnson and Floyd Miller, 'The Man Who Sold the Eiffel Tower,' Doubleday, 1961",
+      "url": null
+    },
+    {
+      "text": "United States Penitentiary, Alcatraz, inmate records for register no. 300 (Robert V. Miller, alias Victor Lustig), U.S. National Archives",
+      "url": null
+    },
+    {
+      "text": "New York Times reporting on the September 1935 escape from the Federal House of Detention and the Pittsburgh recapture",
+      "url": null
+    },
+    {
+      "text": "La Tour Eiffel official site, history section: 'Who sold the Eiffel Tower?'",
+      "url": null
+    }
+  ],
+  "transcript": [
+    {
+      "type": "section",
+      "title": "Cold Open"
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Okay, before you start. I had a feeling all week about what tonight is, and I want it on record. It's train two. You're doing a sequel."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "It is not train two."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Because I have more thoughts about the briefcase guy. I've been saving them up."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "[laughs] Keep saving them. No. Tonight starts with a question. What is the biggest thing a person can steal?"
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Um. Physically biggest? Last time it was a train, so you're clearly escalating. A boat. A building?"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "A monument."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "What do you mean, a monument."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "In May of 1925, a man checked into one of the finest hotels in Paris, had some official-looking letterhead printed, and sold the Eiffel Tower."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "The Eiffel Tower."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "For scrap. Seven thousand tons of iron. And the part I cannot get over is that it went so smoothly, so completely without consequence, that he came back and..."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "No. No no no, do not tell me he did it twice. Frankie."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "He did it twice."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Okay. I'm sitting down. From the top."
+    },
+    {
+      "type": "section",
+      "title": "A Man With No Birthday"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "The man calling himself Count Victor Lustig said he was born in 1890, in a little town called Hostinn\u00e9, in what's now the Czech Republic. Father the town mayor, fine family, good schools."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Said?"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Said. A Czech historian went digging through the town's records and found, and this is his actual phrase, not a scrap of evidence that Lustig was ever born."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Hang on, though. Records get lost. Wars happened. That corner of Europe had a rough century."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Fair, and maybe. But his own prison file undercuts him too. He told everyone his father was the burgomaster. The prison papers describe his parents as, quote, the poorest peasant people."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "So even the origin story is a con. There's no floor. It's cons all the way down."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "All the way down. By his twenties he's working the transatlantic liners, in first class, where rich passengers are bored and trapped with him for a week at a time. Card games. Investments that don't exist. He's five foot seven, a hundred and forty pounds, speaks five languages, and has a scar on his left cheek that he explains differently every time someone asks."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Of course he does. And the count part? Who made him a count?"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "He did. A count, of course. Europe was simply full of counts in 1925."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "[laughs] Self-service nobility. Okay. So he's charming, he's multilingual, he's on boats. How do we get from card games to national monuments?"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Through a little cedar box."
+    },
+    {
+      "type": "section",
+      "title": "The Money Box"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Picture a small wooden box, hand-built, about the size of a bread bin. Brass dials, a slot at each end, a crank. Lustig lets the mark peek at the complicated rollers inside, and explains, very reluctantly, that it is a duplicating machine. You feed in a real hundred dollar bill and a sheet of blank paper, and six hours later, two identical hundreds come out."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Why six hours?"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "The chemistry, he'd whisper. Radium. Very delicate."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Uh huh. And the second hundred is..."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "A real one he loaded in earlier. He runs the demonstration two or three times. He even sends the mark to a bank, where a teller confirms the bills are genuine, because they are. And then, only because the mark is now begging him, he agrees, painfully, to part with the box."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "For how much?"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Accounts range. Ten thousand dollars. Twenty. One version has a Texas sheriff paying him and then chasing him halfway across the country once the box started producing blank paper. I'll flag it now: a lot of these early stories come from one biography written in 1961, so the details wobble depending on who's telling them."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Okay wait, do the math with me, because you know I'm bad at this. The mark pays ten thousand dollars for a box that makes two hundred dollars a day. That's the pitch?"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "That's the pitch. And people fought him for the privilege."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "I want to be smug here, and, um. Honestly? A box that doubles money, demonstrated in front of me, verified by my own bank teller? I say nothing's free like it's a proverb, and I have never once turned down a free sample. I don't know, Frankie."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Then you're exactly who the box was built for. Everyone thinks they're the exception. That's the product. The box is just packaging."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Speaking of things people can't verify. Are we finally telling the clock story? Because this feels like the episode for it."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "I, no. We're due in Paris."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Frankie owns a little bronze carriage clock from an estate sale, because the seller swore, hand on heart, that it once sat in a room with Napoleon the Third."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "He was extremely convincing."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "And she will not get it appraised. Years now."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "I won't get it appraised because right now it's a maybe, and I like the maybe. Which, yes, I can hear it, is the entire psychology of this episode. Can we go to Paris?"
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "[laughs] We can go to Paris."
+    },
+    {
+      "type": "section",
+      "title": "Paris, May 1925"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Paris, spring of 1925. Lustig reads a newspaper piece about the Eiffel Tower, and it is not a flattering piece. The tower is thirty six years old. It was never meant to be permanent; it was supposed to come down after the world's fair that built it. The city is behind on the maintenance, the repainting alone costs a fortune, and there are people writing letters to the editor saying tear the ugly thing down."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "People wanted it gone? The Eiffel Tower?"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Plenty of Parisians never wanted it up. And where everyone else read a complaint about upkeep, Lustig read an invitation. He has stationery printed with an official French government seal. He checks into the H\u00f4tel de Crillon, one of the grandest addresses in the city. And on that letterhead, as Deputy Director General of the Ministry of Posts and Telegraphs, he writes to a handful of the biggest scrap metal dealers in Paris."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Why posts and telegraphs? Why not, I don't know, the ministry of large metal things?"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Because the tower held the radio antennas, so that ministry actually had business with it. He did his homework so the lie would sit flat. The letters invite the dealers to a private meeting at the hotel. Not at the ministry, he explains, because the matter is delicate. The government has decided the tower must come down, and given the public feeling, it must be handled quietly until the contract is signed."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "And the secrecy isn't a red flag? Six men in a hotel suite whispering about demolishing the most famous structure in France?"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "The secrecy is doing the opposite of what you'd think. Every man in that room now feels like an insider. He drives them to the tower in a rented limousine, gives them the tour, watches how they behave. And he's not shopping for the best bid. He's shopping for the right man."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "What does the right man look like?"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Andr\u00e9 Poisson. Newer money. Not quite inside the inner circle of Paris business, and aching to be. A man who wants the deal that proves he belongs. In the most repeated version of the story, it's actually Poisson's wife who nearly sinks it. Why the rush, why the secrecy, why a hotel? So Lustig invites Poisson back, alone, and confides in him. His government salary, you understand. A man in his position, expected to dress, to entertain. Ministers sometimes require a little..."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "He asked the mark for a bribe. On top of the sale. Am I understanding this? He's selling a tower he doesn't own, and he charges extra to make it feel real."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Because a real corrupt official would want a bribe. The bribe is the proof. All of Poisson's doubts point the wrong way now. Nobody bribes a man into a fake deal, so paying the bribe settles it."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "That's disgusting. That's beautiful. I hate it. How much did he get?"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Accounts disagree on the exact number, and remember where these stories come from. The commonly repeated figure lands around seventy thousand francs all in, bid plus bribe."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "And seventy thousand francs is what, in money I understand?"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Rough feel? A nice Paris apartment. Poisson handed over an apartment for a stack of letterhead. Days later, Lustig is in Vienna with a suitcase of cash, reading the Paris papers over breakfast."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Waiting for the story to break."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Every morning. And every morning, nothing. Because Andr\u00e9 Poisson would rather lose the money than let Paris find out he bought the Eiffel Tower."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "The shame is the getaway car."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "The shame is the whole insurance policy. And when the papers stayed quiet, Lustig drew the obvious conclusion."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Oh no."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "If it worked once."
+    },
+    {
+      "type": "section",
+      "title": "The Second Sale"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "So he comes back. Within months, in most tellings. Same city, same suite of moves, fresh letterhead, a new shortlist of scrap dealers who hadn't heard a whisper about the first round, because there was nothing to hear."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Because the only man who knew paid for the privilege of keeping it quiet. Okay, but somebody bites twice? The same con, the same tower?"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Somebody bites. But this time the mark checks. Details are thin here, thinner than round one, but the shape of it is that the second buyer got suspicious before the money moved, and this time the police actually heard about it. Lustig was gone before they got close. He sailed for America."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "And there's no arrest record, no trial, nothing official from either sale?"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Nothing anyone has produced. No French police file on the first sale has ever surfaced. Which is why, honest flag, some historians hold the whole Poisson story at arm's length. The tower con is one of the most famous grifts ever pulled, and nearly all of it rests on that 1961 biography and on what Lustig told people. A con man's r\u00e9sum\u00e9, written by the con man."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "A story about selling a fake, and we can't fully verify the story. It's fakes all the way down again."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Wait, actually, that makes me like it more? If he invented the second sale, then the lie about the con is itself a con, and I have to respect the craftsmanship."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "That's the Lustig experience in one sentence. Either way, by the late twenties he's in the United States, and this is where the record firms up considerably. Because in America, he made the one product you can always verify."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Which is?"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Money."
+    },
+    {
+      "type": "section",
+      "title": "The Money Factory"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "But first, the Capone story, because you'll hear it anywhere you hear Lustig's name. The version goes: he takes fifty thousand dollars from Al Capone for a stock scheme, does absolutely nothing with it for two months, then hands it all back, apologizing that the deal fell through. And Capone, so impressed by the honesty of this man..."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Sure. And the buyers just wired the money. Come on. He returned fifty grand to Capone and Capone tipped him five thousand for integrity? This smells like a legend."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "It very well might be. Same 1961 book, and Capone's accounting department was not available for comment. File it next to the Texas sheriff."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Filed. Under fiction, probably. What's the part we can verify?"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "The part where the United States Secret Service builds a file on him. Around 1930 Lustig partners with a forger named William Watts, and they start printing hundred dollar bills. Not sad, blurry fakes. Collectors and investigators later rated them among the best counterfeits of the era. A judge would eventually say Lustig was operating like some other government, issuing money in rivalry with the United States Treasury."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "How much of it got out?"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Enough that the Secret Service genuinely worried about confidence in the hundred dollar bill itself. Tellers were trained on them. Agents chased the notes for five years. The man who finally got him was an agent named Peter Rubano, and on the tenth of May, 1935, they took Lustig on a New York street corner."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "After decades of this. Forty seven aliases, they say?"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Forty seven aliases, dozens of arrests across the country under various names, and he'd talked or slipped his way out of nearly all of it. This time the federal government had him in the Federal House of Detention in Manhattan, awaiting trial. Third floor. Bars on the windows."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "I feel a but coming."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "The Sunday before Labor Day, 1935. September the first. Broad daylight."
+    },
+    {
+      "type": "section",
+      "title": "The Window Washer"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "A guard does his rounds and Lustig's cell is empty. On the window, the bars are cut. And out of the window, hanging down the side of the building, is a rope of knotted bedsheets."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "In daylight. People must have seen him."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "People did see him. A man in the street watches this figure come down the sheet rope, floor by floor, and here is my favorite verified-adjacent detail of the whole story: partway down, Lustig pulls out a rag and starts wiping the windows."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "[laughs] Stop it. He window-washed his way out of federal custody. He committed to the bit while hanging off a jail."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Reached the ground, tidied himself, and walked into the neighborhood like a man finishing a shift."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Twenty-something days of freedom, you said? Where do you even go?"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Twenty seven days. Pittsburgh, as it turns out. The agents ran him down at the end of September after a car chase, nine blocks. And when they pulled him out of the car, no gun, no fight, he reportedly smiled and said, well, boys, here I am."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "He really only had the one gear."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Charm, all the way to the courtroom. Where it finally stopped working. He pleaded guilty. Twenty years, counting the escape, and the government sent him somewhere no letterhead could reach. Alcatraz. He arrived on the island in April 1936, inmate number three hundred."
+    },
+    {
+      "type": "section",
+      "title": "Where Everyone Ended Up"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "And the record of his decade on the Rock is honestly a little sad. The great Count Lustig, prisoner three hundred, filing complaint after complaint about his health. By the end of 1946 his file held over a thousand medical requests and five hundred prescriptions."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "The staff must have completely tuned him out."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Which is the cruel part, because eventually he wasn't inventing it. Pneumonia. They transferred him to the federal prison medical center in Springfield, Missouri, and he died there on the eleventh of March, 1947."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Did anyone notice? Did the papers run it?"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Not for two years. The family kept it quiet, and the world's greatest salesman got no announcement at all until 1949."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "And on the death certificate, in the box marked occupation, someone wrote: apprentice salesman."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Apprentice."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "The man sold the Eiffel Tower twice, and he died an apprentice. I can't decide if that's the saddest thing I've ever heard or the funniest."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "He'd probably tell you it was one more alias. As for the rest of the ledger: Poisson's francs were never recovered, no piece of the tower ever moved, and Watts's plates stopped printing. The tower they sold is still standing over Paris, still expensive, still repainted every few years, tens of tons of paint at a time. The maintenance complaints that started this whole story are the only part of it that never ended."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "So the scoreboard. He got away with the tower. Twice, if you believe it, and the one man we know paid never told a soul. What got him in the end wasn't the audacious stuff at all. It was printing money. The most boring crime he ever committed."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Almost got away with it."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "The almost is the show."
+    },
+    {
+      "type": "section",
+      "title": "Outro"
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "I'll say this. Next time I'm on a train and a man with beautiful luggage offers me a monument, I'm not buying. But I'm hearing the pitch, because honestly the pitch sounds..."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Do not buy a monument."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "[laughs] The pitch, Frankie. Just the pitch. And somebody please appraise that clock while she's out."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "The clock is a maybe, and the maybe is mine. Two Grifters is an independent show. When the record disagrees with itself, we say so on air, and the sources for every episode are in the show notes."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Oh, and we have a mailbox now. If there's a con you think we should cover, or you have feedback, or, um, a strong opinion about a certain clock, write to us. Two grifters podcast at gmail dot com."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "All one word, two grifters podcast, at gmail dot com. We read everything."
+    }
+  ]
+}

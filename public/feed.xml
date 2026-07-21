@@ -9,7 +9,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Jul 2026 02:34:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 03:13:42 +0000</lastBuildDate>
     <itunes:author>Two Grifters</itunes:author>
     <itunes:category text="True Crime"/>
     <itunes:image href="https://pod.twogrifters.com/art/cover-3000.jpg"/>
@@ -30,11 +30,11 @@ Sources:
 - New York Times reporting on the September 1935 escape from the Federal House of Detention and the Pittsburgh recapture
 - La Tour Eiffel official site, history section: 'Who sold the Eiffel Tower?'</description>
       <guid isPermaLink="false">victor-lustig</guid>
-      <enclosure url="https://pod.twogrifters.com/audio/e003-victor-lustig.mp3" length="19359938" type="audio/mpeg"/>
+      <enclosure url="https://pod.twogrifters.com/audio/e002-victor-lustig.mp3" length="17794260" type="audio/mpeg"/>
       <pubDate>Mon, 20 Jul 2026 08:00:00 +0000</pubDate>
-      <itunes:duration>17:38</itunes:duration>
+      <itunes:duration>17:59</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:episode>3</itunes:episode>
+      <itunes:episode>2</itunes:episode>
     </item>
     <item>
       <title>The Great Train Robbery: Undone by a Monopoly Board</title>
@@ -47,11 +47,11 @@ Sources:
 - The National Archives (UK), case files on the 1963 Cheddington mail train robbery, DPP 2/3715 series and HO 287/1496
 - BBC News coverage of the robbery's fiftieth anniversary and the December 2013 obituary of Ronnie Biggs</description>
       <guid isPermaLink="false">great-train-robbery</guid>
-      <enclosure url="https://pod.twogrifters.com/audio/e002-great-train-robbery.mp3" length="36067637" type="audio/mpeg"/>
+      <enclosure url="https://pod.twogrifters.com/audio/e001-great-train-robbery.mp3" length="33892802" type="audio/mpeg"/>
       <pubDate>Mon, 20 Jul 2026 08:00:00 +0000</pubDate>
-      <itunes:duration>35:02</itunes:duration>
+      <itunes:duration>34:44</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:episode>2</itunes:episode>
+      <itunes:episode>1</itunes:episode>
     </item>
   </channel>
 </rss>
