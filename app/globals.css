@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@theme {
+  --color-bg: #0e3b32;
+  --color-panel: #0a2e27;
+  --color-ink: #f2e8d5;
+  --color-gold: #eaa821;
+  --color-muted: #b8ccc3;
+
+  --font-display: var(--font-fraunces), Georgia, "Times New Roman", serif;
+  --font-body: Georgia, "Times New Roman", serif;
+}
+
+body {
+  @apply bg-bg text-ink font-body antialiased;
+}
+
+audio {
+  width: 100%;
+}

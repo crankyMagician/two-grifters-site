@@ -1,0 +1,22 @@
+{
+  "title": "Two Grifters",
+  "subtitle": "Heists, cons, and the people who almost got away with it",
+  "description": "Two friends walk through history's greatest heists, cons, and scams: who planned them, how they worked, and the one dumb detail that brought them down. Hosted by Frankie and Ruby. Every episode is built from the historical record, and the sources are in the show notes. Got feedback, questions, or a con we should cover? Email twogrifterspodcast@gmail.com.",
+  "author": "Two Grifters",
+  "copyright": "Two Grifters",
+  "language": "en",
+  "category": "True Crime",
+  "explicit": false,
+  "siteUrl": "https://pod.twogrifters.com",
+  "feedPath": "/feed.xml",
+  "email": "twogrifterspodcast@gmail.com",
+  "art": {
+    "full": "/art/cover-3000.jpg",
+    "display": "/art/cover-800.png",
+    "og": "/art/og-1200x630.png"
+  },
+  "links": {
+    "apple": "",
+    "spotify": ""
+  }
+}
