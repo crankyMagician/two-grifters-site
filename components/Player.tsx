@@ -42,7 +42,7 @@ export default function Player({
               <button
                 type="button"
                 onClick={() => seekTo(chapter.startMs)}
-                className={`w-full rounded-md px-3 py-1.5 text-left transition-colors hover:bg-gold/10 ${
+                className={`w-full rounded-md px-3 py-2 text-left transition-colors hover:bg-gold/10 ${
                   i === activeIndex ? "bg-gold/15 text-gold" : "text-muted"
                 }`}
               >

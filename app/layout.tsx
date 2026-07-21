@@ -46,7 +46,7 @@ export default function RootLayout({
   return (
     <html lang={show.language} className={fraunces.variable}>
       <body>
-        <div className="mx-auto max-w-3xl px-6 pb-24 pt-8">
+        <div className="mx-auto max-w-3xl break-words px-4 pb-20 pt-6 sm:px-6 sm:pb-24 sm:pt-8">
           <Header />
           <main>{children}</main>
           <Footer />
