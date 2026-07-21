@@ -9,7 +9,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Jul 2026 03:13:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 20:36:38 +0000</lastBuildDate>
     <itunes:author>Two Grifters</itunes:author>
     <itunes:category text="True Crime"/>
     <itunes:image href="https://pod.twogrifters.com/art/cover-3000.jpg"/>
@@ -19,6 +19,24 @@
       <itunes:email>show@twogrifters.com</itunes:email>
     </itunes:owner>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>The Forger Who Fooled Göring, Then Had to Prove It</title>
+      <description>In May 1945, Dutch officers arrested a rich Amsterdam painter for selling a Vermeer to Hermann Göring, and the charge carried a possible death sentence. His defense was the last thing anyone expected: there was no Vermeer. Nobody believed him, so they gave him an easel, a guard detail, and an audience, and he painted his proof. The story of Han van Meegeren: the critics who called him unoriginal, the fake that fooled the world's top expert, the trade that swindled a hundred real paintings out of the Nazis, and the confession that bounced.
+
+Sources:
+- Jonathan Lopez, 'The Man Who Made Vermeers: Unvarnishing the Legend of Master Forger Han van Meegeren,' Harcourt, 2008
+- Edward Dolnick, 'The Forger's Spell: A True Story of Vermeer, Nazis, and the Greatest Art Hoax of the Twentieth Century,' Harper, 2008
+- Frank Wynne, 'I Was Vermeer: The Rise and Fall of the Twentieth Century's Greatest Forger,' Bloomsbury, 2006
+- Abraham Bredius, 'A New Vermeer,' The Burlington Magazine, November 1937
+- P. B. Coremans, 'Van Meegeren's Faked Vermeers and De Hooghs: A Scientific Examination,' J.M. Meulenhoff, Amsterdam, 1949
+- Museum Boijmans Van Beuningen, collection records for 'The Supper at Emmaus'</description>
+      <guid isPermaLink="false">han-van-meegeren</guid>
+      <enclosure url="https://pod.twogrifters.com/audio/e003-han-van-meegeren.mp3" length="23582429" type="audio/mpeg"/>
+      <pubDate>Tue, 21 Jul 2026 08:00:00 +0000</pubDate>
+      <itunes:duration>24:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>3</itunes:episode>
+    </item>
     <item>
       <title>The Count Who Sold the Eiffel Tower. Twice.</title>
       <description>In the spring of 1925, a man with printed letterhead and a borrowed title invited Paris's biggest scrap dealers to a grand hotel and sold one of them the Eiffel Tower. Nobody reported it, so he came back and sold it again. The story of Count Victor Lustig: the money box, the tower, the counterfeit hundreds that spooked the Treasury, and a daylight escape down the side of a New York jail.

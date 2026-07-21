@@ -1,0 +1,752 @@
+{
+  "id": "e003",
+  "number": 3,
+  "slug": "han-van-meegeren",
+  "title": "The Forger Who Fooled G\u00f6ring, Then Had to Prove It",
+  "description": "In May 1945, Dutch officers arrested a rich Amsterdam painter for selling a Vermeer to Hermann G\u00f6ring, and the charge carried a possible death sentence. His defense was the last thing anyone expected: there was no Vermeer. Nobody believed him, so they gave him an easel, a guard detail, and an audience, and he painted his proof. The story of Han van Meegeren: the critics who called him unoriginal, the fake that fooled the world's top expert, the trade that swindled a hundred real paintings out of the Nazis, and the confession that bounced.",
+  "published": "2026-07-21",
+  "explicit": false,
+  "durationSec": 1440,
+  "audio": {
+    "path": "/audio/e003-han-van-meegeren.mp3",
+    "bytes": 23582429,
+    "type": "audio/mpeg"
+  },
+  "chapters": [
+    {
+      "title": "Cold Open",
+      "startMs": 3000
+    },
+    {
+      "title": "The Gifted Technician",
+      "startMs": 187070
+    },
+    {
+      "title": "The Recipe",
+      "startMs": 336250
+    },
+    {
+      "title": "The Painting The Experts Predicted",
+      "startMs": 482050
+    },
+    {
+      "title": "The War Years",
+      "startMs": 705320
+    },
+    {
+      "title": "The Knock",
+      "startMs": 843700
+    },
+    {
+      "title": "Painting For His Life",
+      "startMs": 1001680
+    },
+    {
+      "title": "Where Everyone Ended Up",
+      "startMs": 1220280
+    },
+    {
+      "title": "Outro",
+      "startMs": 1363050
+    }
+  ],
+  "sources": [
+    {
+      "text": "Jonathan Lopez, 'The Man Who Made Vermeers: Unvarnishing the Legend of Master Forger Han van Meegeren,' Harcourt, 2008",
+      "url": null
+    },
+    {
+      "text": "Edward Dolnick, 'The Forger's Spell: A True Story of Vermeer, Nazis, and the Greatest Art Hoax of the Twentieth Century,' Harper, 2008",
+      "url": null
+    },
+    {
+      "text": "Frank Wynne, 'I Was Vermeer: The Rise and Fall of the Twentieth Century's Greatest Forger,' Bloomsbury, 2006",
+      "url": null
+    },
+    {
+      "text": "Abraham Bredius, 'A New Vermeer,' The Burlington Magazine, November 1937",
+      "url": null
+    },
+    {
+      "text": "P. B. Coremans, 'Van Meegeren's Faked Vermeers and De Hooghs: A Scientific Examination,' J.M. Meulenhoff, Amsterdam, 1949",
+      "url": null
+    },
+    {
+      "text": "Museum Boijmans Van Beuningen, collection records for 'The Supper at Emmaus'",
+      "url": null
+    }
+  ],
+  "transcript": [
+    {
+      "type": "section",
+      "title": "Cold Open"
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Before you start. I have to report a crime, and I'm the victim, and also arguably the accomplice."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Those are my three favorite words. Report the crime."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "I bought a painting at the market by my place. An original oil painting. The seller said, and I quote, feel the brushstrokes. So I felt the brushstrokes. They were so bumpy, Frankie. Bumpy means real."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Oh no."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Last week I walked past one of those big furniture shops, and there's my painting in the window. Three of my painting. In two sizes."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "They print the brushstrokes on now. There's a machine that does the bumps."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "There's a machine that does the bumps! And, um, I should also say I haggled, and by the end of the haggle the price had somehow gone up, and we're not doing that part tonight. The point is I got got, and I would like to spend the next twenty minutes watching it happen to somebody important. What did you bring me?"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "A question first. How attached are you to the idea that experts can tell? That somewhere up the chain there's a person who looks at a painting and simply knows?"
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Very attached. That person is holding up my entire understanding of the world."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Then brace. Amsterdam, May 1945. The war in Europe has been over for about three weeks. Two men knock at a very good address on one of the grand canals, and the man who answers is a painter, and they arrest him for collaboration. The story is that during the occupation, he sold a Dutch national treasure to Hermann G\u00f6ring. A Vermeer."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "And collaboration, in the summer of 1945, that's not a fine and a stern letter. The special courts were..."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Handing down death sentences. Yes. So he sits in a cell, and the men questioning him want names, the whole chain the painting passed through. And instead he gives them the one answer nobody in the country is prepared to hear."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Which is?"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "There is no Vermeer. There never was a Vermeer. I painted it. And when they laughed at him, and they did laugh, the only way left to save his neck was to set up an easel, in custody, with guards and witnesses watching, and paint another one."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Hang on. Hang on. If he paints it, and it's good, that's a confession. He's proving fraud, with his own hands, in front of the police."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "And fraud was the good outcome. That's the whole man, right there."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Okay, yeah, I'm in. I'm Ruby, she's Frankie, and this is Two Grifters."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Tonight: Han van Meegeren. A failed painter who forged the art find of the century, fooled the one expert whose word was law, accidentally pulled off the biggest art recovery of the war, and had exactly one road out of a treason charge: prove, in front of everyone, that he was a criminal."
+    },
+    {
+      "type": "section",
+      "title": "The Gifted Technician"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Deventer, the Netherlands, 1889. Henricus Antonius van Meegeren, Han to everyone, grows up in a strict house with a father who considers art a vice."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "A vice."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "His biographers tell one story from the childhood, and I'll flag it as a story, because it's a little too perfect. His father catches him drawing, takes the sketches, and makes the boy write out a hundred times: I know nothing, I am nothing, I am capable of nothing."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "A hundred times. You know, if you set out to build a forger from parts, that's the first part you'd order."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "It does read like an origin story, which is why I flagged it. What's solid is this: the father sends him to Delft to study architecture. Delft, of all towns. Vermeer's town. And the boy skips his final exams, wins a gold medal for a drawing of a church interior instead, and goes all in on painting."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "And? Was he good?"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Genuinely. His portraits sold. Society people sat for him. There's a little sketch he did of a fawn, the princess's pet deer, that got reproduced so much they say it hung in half the front rooms in Holland."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "So where does it curdle? Because a man with a hit deer drawing is not our usual client."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "It curdles in the reviews. This is the 1920s. The art world wants new, wants modern, and he paints like the Golden Age never ended. So the critics land on a line, and versions of it follow him everywhere: technically brilliant, every virtue except originality."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Oof. That's the meanest kind of compliment. Here's a medal for being a photocopier."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "And he takes it exactly as well as you'd expect. He decides the critics are frauds, the experts are frauds, the certificates and the dealers and the whole apparatus, all of it a confidence game with better tailoring. And somewhere in there the plan arrives, and the plan is genuinely petty, which is why I love it. He will forge an old master. He'll let the great experts crown it, watch the museums fight over it, and then, at the peak, he'll pull the sheet away and humiliate every man who ever called him unoriginal."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "I want it noted that as revenge plots go, this one is deranged and I respect the commitment. How long does it take?"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Four years just to build the tools."
+    },
+    {
+      "type": "section",
+      "title": "The Recipe"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "1932. He moves to a villa in the south of France, tells people he's semi-retired, and starts what I can only describe as a research program. Because the problem with forging a Vermeer isn't painting like Vermeer. It's chemistry."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Chemistry how?"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Count the tests with me. The canvas has to be three hundred years old. So he buys real, minor seventeenth-century paintings, cheap ones by nobody, and scrapes them down to the ground layer, because that base coat carries the cracks, and the cracks have to be real."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "He's buying real antiques and destroying them. There's something upsetting in that already."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "The pigments have to match, so he grinds his own the old way. Real ultramarine, made from lapis lazuli, the actual stone. He pays for it like it's jewelry, because it is. Badger-hair brushes, because Vermeer used badger. And then there's the test that should make the whole thing impossible. Alcohol."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "For him or the painting?"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Eventually both. Oil paint stays chemically soft for decades. An expert wets a swab with alcohol, touches the surface, and if color comes away, the painting is young, and you're done, no argument. There is no way to make oil paint act fifty years old. So he stops using oil. He finds a synthetic resin, phenol formaldehyde. You'd know it as Bakelite, the stuff of old telephones. He mixes his colors into that, paints the picture, and then bakes it. A purpose-built oven, around a hundred degrees, a couple of hours."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "He bakes the Vermeer. I'm picturing a man in an apron opening the oven door to check on a national treasure like it's a roast."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "That's more or less the scene. It comes out hard as rock, three centuries old to the swab. Then he rolls the canvas over a drum so the surface cracks along the old crack lines, and works India ink into them by hand. Three hundred years of grime, applied in an afternoon."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "I want to be horrified, and mostly I am, but, uh. Four years alone in a villa inventing fake time. There's a version of this man who publishes the method and is famous forever as a scientist."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "There's also a version who takes the method to his grave and dies rich. He tried to be both, which is the story."
+    },
+    {
+      "type": "section",
+      "title": "The Painting The Experts Predicted"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Now. The clever part is not the chemistry. The clever part is what he chose to paint. How many Vermeers do you think exist?"
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Hundreds? He's famous."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Around thirty five, give or take some attribution fights. A tiny body of work with big biographical holes. And into one of those holes, the grand old man of Dutch art history, Abraham Bredius, had poured a theory: that young Vermeer had a religious period under the influence of Caravaggio, and that somewhere out there, early biblical Vermeers were waiting to be found."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Hang on, was that true?"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "It doesn't matter. That's the point. The most powerful expert alive had predicted a kind of painting nobody had ever seen. So van Meegeren didn't paint a Vermeer. He painted Bredius's prediction. A biblical supper scene, Caravaggio's staging, Vermeer's light. The Supper at Emmaus."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "He forged the expectation. The expert wasn't authenticating a painting, he was authenticating his own theory. Nobody checks their own theory at the door."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Same engine as every con we've covered. The mark does the believing for you. All you sell is the trigger."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "This is your clock, Frankie. This is a whole country buying your clock."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "The clock is a maybe that cost me almost nothing, and we are not doing the clock tonight. A friendly lawyer fronts the painting with a discreet story, an old family, an estate abroad, a quiet sale. It goes to Bredius, who is eighty three years old and has spent his whole life waiting for exactly this. And Bredius writes, in the most respected art journal in the English language, and this part is verbatim: it is a wonderful moment in the life of a lover of art when he finds himself suddenly confronted with a hitherto unknown painting by a great master..."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "No. No, it hurts, because he means it..."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Untouched, on the original canvas, as it left the painter's studio. He calls it the masterpiece of Vermeer of Delft. Quite different from the other work, he says, and yet every inch a Vermeer."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Every inch. The inches were baked, Frankie."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Rotterdam's Boijmans museum buys it for five hundred and twenty thousand guilders, raised in a hurry by a heritage society and rich donors terrified it would leave the country. Call it three hundred thousand dollars in 1937 money, several million now. I keep double-checking that number because you know I don't trust myself with sums, but it holds. And in 1938 it hangs as the centerpiece of a blockbuster show of Dutch masters. People queued. People cried in front of it."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Nobody said anything? Not one person in the whole chain looks at it funny?"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "One. A scout for a big American dealer saw it early and cabled New York two words that should have ended this story. Rotten fake."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Somebody said it! Out loud! In 1937!"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "And it changed nothing, because a cable from a rival dealer is gossip, and a certificate from Bredius is scripture. The fake didn't beat the experts, Ruby. The fake recruited them."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Okay, so now the trap springs, right? This is the moment. The museum is weeping, the critics are on record. He pulls the sheet away, laughs, becomes immortal."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "That was the plan."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Frankie."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Half a million guilders arrived, and the reveal moved to someday. He told himself the next one would be the reveal. Then there was a war on, and next one turned into six."
+    },
+    {
+      "type": "section",
+      "title": "The War Years"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "And here's the thing about the wartime fakes. They got worse, and they sold for more."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Both? How do you manage both?"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Occupied Holland. Money is frightened, and frightened money wants to become objects. Rich Dutch buyers are telling themselves a story, a genuinely noble story: we are keeping Vermeer out of German hands. So a Head of Christ sells. A Last Supper sells for one point six million guilders."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Wait, say the number again, you know the rule."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "One point six million guilders. Triple what the Emmaus cost, for a worse painting. There's an Isaac Blessing Jacob, a Washing of the Feet, a couple of fake de Hoochs while the oven was hot. He is not being careful anymore. By now it's mostly gin and morphine holding the brush."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "And nobody notices the drop in quality?"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "The certificate does the seeing. Once the Emmaus was scripture, everything downstream inherited the faith. And then, 1942. A banker-dealer working the German market takes one of them, a Christ with the Adulteress, to the biggest art collector in the Reich. Hermann G\u00f6ring. Price: one point six five million guilders."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "But here's my favorite ledger entry of the whole war. G\u00f6ring doesn't pay cash."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "What does G\u00f6ring pay in?"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Paintings. Looted Dutch paintings, traded back. The usual count is a hundred and thirty seven, and I'll flag that the ledger wobbles depending on who's counting, but it's in that neighborhood. Real pictures, going home to Holland, in exchange for..."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Wait wait wait. One fake Vermeer buys back a hundred and thirty seven real Dutch paintings. From the Nazis. That's the best trade anyone made in the entire war, and it was made by accident, by a fraud, for money."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "The biggest single act of art repatriation of the occupation, performed by a con man as a side effect. G\u00f6ring hangs his new Vermeer at his hunting estate, among the real masters, and by every account he adored it."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "I'm feeling something for the crooked painter and I don't like it. He scammed the one man everybody on earth wanted scammed."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Hold that feeling. The whole country is about to have it with you."
+    },
+    {
+      "type": "section",
+      "title": "The Knock"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "May 1945. The war ends, and the Allies start untangling G\u00f6ring's collection, and in the pile is a Vermeer that appears in no catalog anywhere on earth. A brand new old master. So they pull the thread. The thread runs through the banker-dealer's paperwork, back into Amsterdam, and it stops at a painter who has had, by any measure, a spectacular war."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Spectacular how?"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "A grand house on the Keizersgracht. Property all over town, and accounts genuinely differ on how much, somewhere between a dozen buildings and more than fifty. Parties. Nightclub bills. All of it belonging to a painter nobody had heard from in years."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "A fortune with no visible job attached. Even I can do that math."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "On the twenty ninth of May, a young Dutch lieutenant named Joseph Piller arrests him. The charge is collaboration. Selling the nation's cultural treasure to the enemy. And understand what the interrogators actually want: names. A real Vermeer had to come from somewhere, through somebody. They think he's the fence in a chain of traitors."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "And he can't give names, because there's no chain, because there's no Vermeer. Oh, this is airtight. He built the perfect crime and it locked from the inside."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "So he stalls. The tidy version says he broke on day three; the paper trail says he held out longer. Either way, when it comes, as it's usually told, it comes out as a shout. You fools. You think I sold a Vermeer to G\u00f6ring? There was no Vermeer. I painted it myself."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "And they laughed."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "And he keeps going. The Emmaus in Rotterdam, the one you queued for, that's mine too. The Last Supper. The de Hoochs. Mine, mine, and also..."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "They're not going to believe him. Nobody wants to believe him. Believing him costs too much."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Exactly right. If he's lying, one crook goes to the wall. If he's telling the truth, the national treasure is a prop, the museum spent a fortune on nothing, and the great Bredius, who was still alive, is an old man whose life's authority just turned to smoke. And a confession of forgery from a treason cell looks like a dodge anyway. It's the obvious lie."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "He conned everyone so completely that the truth bounced. That might be the loneliest sentence we've ever said on this show."
+    },
+    {
+      "type": "section",
+      "title": "Painting For His Life"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "So the authorities do the only sensible thing left. Fine. Prove it. Paint one."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "In jail?"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Under guard, with witnesses, and journalists wandering through, from the summer into the winter of 1945. And he negotiated his working conditions like a man who knew he was the whole show. His materials, his pace, and by several accounts they kept him supplied with the gin and the morphine, because a forger in withdrawal proves nothing."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "What does he paint?"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "A big biblical scene, Jesus Among the Doctors, the young Christ teaching in the temple. One more Vermeer that Vermeer never painted. And the point was never beauty. The point was fluency. Watching him do, unprompted, from muscle memory, every private trick the fakes contained."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Was it good?"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Good enough to end the argument, and he barely bothered finishing the aging, because by then the argument was ending anyway. A commission of chemists and historians had gone at the fakes with X-rays and solvents. Under the paint they found ghosts of the seventeenth-century pictures he'd scraped down. In the paint they found phenol formaldehyde. Bakelite. A resin that did not exist before the twentieth century, sitting in the body of every single one."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "The telephone plastic. In the Vermeers."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "And one more, and this one is for you. In the later fakes, the chemists found cobalt blue mixed through his precious ultramarine. Cobalt blue was invented around 1800, a century and a quarter after Vermeer died. He'd been paying jewelry prices for real lapis, and his supplier had been cutting it with the cheap stuff."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "[laughs] The forger got got. He felt the brushstrokes, Frankie! The greatest faker of the century bought counterfeit paint at full price!"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "[laughs] It's the tidiest justice in the whole file. The trial, when it finally comes, is October 1947, and it is a premiere. Packed room, flashbulbs, and the courtroom hung with his fakes, all of them together. Which means the Dutch state gave this man the first and only solo exhibition of his life."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Stop it."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "The treason charge is long gone by then, obviously. You can't collaborate with the enemy by swindling him. What's left is forgery and fraud. And the country has completely changed its mind about the defendant, because whatever else he did, he took G\u00f6ring's money and Holland got a hundred and some real paintings back. One newspaper poll that autumn ranked him among the most popular men in the Netherlands."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "From a treason cell to folk hero in two years. On the strength of being a better liar than everybody's experts."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "The exchange everyone quotes from the trial, and I'll give it as the court reporters had it: the judge points out that he sold the fakes for enormous prices. And van Meegeren says, I could hardly have done otherwise. If I'd sold them cheap, everyone would have known they were false."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "He's not wrong, which is the worst part."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "The sentence: one year. The minimum the law allowed."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "One year. For, I mean, tally it up. The museum, the state, the collectors, G\u00f6ring. One year."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "And he never served a day of it. Weeks after the verdict, his heart gave out. He died in a clinic in Amsterdam on the thirtieth of December, 1947. Fifty eight years old."
+    },
+    {
+      "type": "section",
+      "title": "Where Everyone Ended Up"
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Alright. The reckoning. Where did it all go?"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "The money mostly evaporated the way it always does. Claims, lawyers, the taxman. He'd parked chunks of it with his ex-wife years earlier, which took the state years to untangle, and in the end the estate went at auction, the house contents, the properties, all of it, to pay back people who had bought air. The wartime sales alone add up to somewhere north of seven million guilders. What he personally died with is anyone's guess, and the accounts disagree, so I won't pretend a number."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "And the paintings? The fakes themselves?"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "The Emmaus is still in Rotterdam, still owned by the Boijmans. It comes out for exhibitions now and then, labeled honestly these days, and people still queue for it, just for a different reason. Bredius died in 1946, so he lived exactly long enough to hear the confession. And G\u00f6ring found out at Nuremberg. One of the American art officers broke the news to him, and the line that comes down to us, and it's an anecdote, grain of salt, is that G\u00f6ring looked as if he had discovered, for the first time, that there was evil in the world."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "[laughs] No. The man ran the Luftwaffe, and the fake painting is where it landed."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Grain of salt, like I said. It's survived eighty years of retelling because nobody can bear to check it. And one more thing, for the road. After his death, van Meegerens became collectible. Genuinely sought after. Prices climbed high enough that people started forging them."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Forging the forger."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "By most tellings, his own son among them. The market did the only thing it knows how to do."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "So, the scoreboard. He wanted one sentence out of all of this: you are as good as Vermeer. And what he got was, you are as good as Vermeer at everything except being Vermeer. The reveal was supposed to be his big scene, on his schedule, at the top. Instead it got dragged out of him in a treason cell, and the applause, when it finally came, was for the swindle, not the painting."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "He spent four years inventing fake time, and then ran out of the real thing. Almost got away with it."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "The almost is the show."
+    },
+    {
+      "type": "section",
+      "title": "Outro"
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "I'm keeping my painting, by the way. The bumpy one. I know what it is now, and honestly it's better this way. It's fake and it's mine and nobody can take that from me. It's, hmm, what would Frankie call it..."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "An honest forgery. Which makes you the only person in tonight's episode with clean hands, and you got there by losing a haggle."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Thank you. I think."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Two Grifters is an independent show. When the record disagrees with itself, we say so on air, and the sources for every episode are in the show notes."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "And the mailbox is open. Feedback, questions, cons you think we should cover. And this week especially: if you have ever been got at a market, a fair, a car park, anywhere, write to me in detail, because I need the company. Two grifters podcast at gmail dot com."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "All one word, two grifters podcast, at gmail dot com. And if you own a painting with a story attached, maybe don't get it appraised."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Keep the maybe!"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "That's my line."
+    }
+  ]
+}
