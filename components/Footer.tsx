@@ -13,10 +13,20 @@ export default function Footer() {
           </a>
         </p>
       )}
-      <p className="mt-2">
+      <p className="mt-2 flex flex-wrap justify-center gap-4">
         <a href={show.feedPath} className="text-gold">
           RSS feed
         </a>
+        {show.links.tiktok && (
+          <a href={show.links.tiktok} className="text-gold">
+            TikTok
+          </a>
+        )}
+        {show.links.instagram && (
+          <a href={show.links.instagram} className="text-gold">
+            Instagram
+          </a>
+        )}
       </p>
       <p className="mt-4">
         © {new Date().getFullYear()} {show.copyright}

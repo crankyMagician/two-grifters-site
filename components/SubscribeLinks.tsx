@@ -18,6 +18,16 @@ export default function SubscribeLinks() {
           Spotify
         </a>
       )}
+      {show.links.tiktok && (
+        <a href={show.links.tiktok} className={pill}>
+          TikTok
+        </a>
+      )}
+      {show.links.instagram && (
+        <a href={show.links.instagram} className={pill}>
+          Instagram
+        </a>
+      )}
       <a href={show.feedPath} className={pill}>
         RSS
       </a>
