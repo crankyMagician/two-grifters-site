@@ -9,7 +9,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Jul 2026 01:57:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 02:34:37 +0000</lastBuildDate>
     <itunes:author>Two Grifters</itunes:author>
     <itunes:category text="True Crime"/>
     <itunes:image href="https://pod.twogrifters.com/art/cover-3000.jpg"/>
@@ -52,21 +52,6 @@ Sources:
       <itunes:duration>35:02</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episode>2</itunes:episode>
-    </item>
-    <item>
-      <title>The Antwerp Diamond Heist: Beaten by a Sandwich</title>
-      <description>In February 2003, a crew of Italian thieves emptied 109 safe deposit boxes beneath the most secure building in the world's diamond capital, without tripping a single alarm. They beat a three-ton vault door, seismic sensors, and a lock with one hundred million combinations. Then a half-eaten salami sandwich brought the whole thing down.
-
-Sources:
-- Joshua Davis, 'The Untold Story of the World's Biggest Diamond Heist,' Wired, March 2009: https://www.wired.com/2009/03/ff-diamonds-2/
-- Scott Andrew Selby and Greg Campbell, 'Flawless: Inside the Largest Diamond Heist in History,' Union Square Press, 2010
-- BBC News coverage of the February 2003 Antwerp Diamond Centre theft and the 2005 trial of Leonardo Notarbartolo</description>
-      <guid isPermaLink="false">antwerp-diamond-heist</guid>
-      <enclosure url="https://pod.twogrifters.com/audio/e001-antwerp-diamond-heist.mp3" length="14378019" type="audio/mpeg"/>
-      <pubDate>Mon, 20 Jul 2026 08:00:00 +0000</pubDate>
-      <itunes:duration>12:27</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episode>1</itunes:episode>
     </item>
   </channel>
 </rss>
