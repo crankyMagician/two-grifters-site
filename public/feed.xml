@@ -9,7 +9,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Jul 2026 20:36:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 04:28:46 +0000</lastBuildDate>
     <itunes:author>Two Grifters</itunes:author>
     <itunes:category text="True Crime"/>
     <itunes:image href="https://pod.twogrifters.com/art/cover-3000.jpg"/>
@@ -19,6 +19,24 @@
       <itunes:email>show@twogrifters.com</itunes:email>
     </itunes:owner>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Fifty Percent in Forty-Five Days, Guaranteed</title>
+      <description>Boston, summer 1920. A dapper little man with a gold-handled cane is taking in a quarter of a million dollars a day from an office on School Street, promising fifty percent interest in forty-five days, guaranteed, and paying it, on time, every time. The engine underneath is supposed to be humble postal reply coupons; when the auditors finally count them, they find sixty-one dollars' worth. The story of Charles Ponzi: the bank teller who watched the trick from the inside years before he ran it, the furniture salesman whose nuisance lawsuit started the unraveling, the newspaper that did the arithmetic, and the crowd that cheered a man while he robbed it. His investors got back less than thirty cents on the dollar. He got the dictionary entry.
+
+Sources:
+- Mitchell Zuckoff, 'Ponzi's Scheme: The True Story of a Financial Legend,' Random House, 2005
+- Donald H. Dunn, 'Ponzi: The Incredible True Story of the King of Financial Cons,' Broadway Books, 2004
+- Boston Post investigative coverage, July-August 1920, including Clarence Barron's analysis (July 26) and William McMasters' exposé (August 2); awarded the 1921 Pulitzer Prize for Public Service
+- Charles Ponzi, 'The Rise of Mr. Ponzi,' self-published autobiography, 1936
+- Mary Darby, 'In Ponzi We Trust,' Smithsonian Magazine, December 1998
+- Cunningham v. Brown, 265 U.S. 1 (1924), the Supreme Court decision unwinding the scheme's final payouts</description>
+      <guid isPermaLink="false">charles-ponzi</guid>
+      <enclosure url="https://pod.twogrifters.com/audio/e004-charles-ponzi.mp3" length="22380302" type="audio/mpeg"/>
+      <pubDate>Mon, 27 Jul 2026 08:00:00 +0000</pubDate>
+      <itunes:duration>22:45</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>4</itunes:episode>
+    </item>
     <item>
       <title>The Forger Who Fooled Göring, Then Had to Prove It</title>
       <description>In May 1945, Dutch officers arrested a rich Amsterdam painter for selling a Vermeer to Hermann Göring, and the charge carried a possible death sentence. His defense was the last thing anyone expected: there was no Vermeer. Nobody believed him, so they gave him an easel, a guard detail, and an audience, and he painted his proof. The story of Han van Meegeren: the critics who called him unoriginal, the fake that fooled the world's top expert, the trade that swindled a hundred real paintings out of the Nazis, and the confession that bounced.

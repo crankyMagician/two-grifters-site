@@ -1,0 +1,779 @@
+{
+  "id": "e004",
+  "number": 4,
+  "slug": "charles-ponzi",
+  "title": "Fifty Percent in Forty-Five Days, Guaranteed",
+  "description": "Boston, summer 1920. A dapper little man with a gold-handled cane is taking in a quarter of a million dollars a day from an office on School Street, promising fifty percent interest in forty-five days, guaranteed, and paying it, on time, every time. The engine underneath is supposed to be humble postal reply coupons; when the auditors finally count them, they find sixty-one dollars' worth. The story of Charles Ponzi: the bank teller who watched the trick from the inside years before he ran it, the furniture salesman whose nuisance lawsuit started the unraveling, the newspaper that did the arithmetic, and the crowd that cheered a man while he robbed it. His investors got back less than thirty cents on the dollar. He got the dictionary entry.",
+  "published": "2026-07-27",
+  "explicit": false,
+  "durationSec": 1365,
+  "audio": {
+    "path": "/audio/e004-charles-ponzi.mp3",
+    "bytes": 22380302,
+    "type": "audio/mpeg"
+  },
+  "chapters": [
+    {
+      "title": "Cold Open",
+      "startMs": 3000
+    },
+    {
+      "title": "The Man With Two Dollars Fifty",
+      "startMs": 139910
+    },
+    {
+      "title": "The Coupon",
+      "startMs": 293590
+    },
+    {
+      "title": "The Flood",
+      "startMs": 430530
+    },
+    {
+      "title": "The Furniture Salesman",
+      "startMs": 571120
+    },
+    {
+      "title": "The Run",
+      "startMs": 721030
+    },
+    {
+      "title": "Where Everyone Ended Up",
+      "startMs": 916440
+    },
+    {
+      "title": "Outro",
+      "startMs": 1200710
+    }
+  ],
+  "sources": [
+    {
+      "text": "Mitchell Zuckoff, 'Ponzi's Scheme: The True Story of a Financial Legend,' Random House, 2005",
+      "url": null
+    },
+    {
+      "text": "Donald H. Dunn, 'Ponzi: The Incredible True Story of the King of Financial Cons,' Broadway Books, 2004",
+      "url": null
+    },
+    {
+      "text": "Boston Post investigative coverage, July-August 1920, including Clarence Barron's analysis (July 26) and William McMasters' expos\u00e9 (August 2); awarded the 1921 Pulitzer Prize for Public Service",
+      "url": null
+    },
+    {
+      "text": "Charles Ponzi, 'The Rise of Mr. Ponzi,' self-published autobiography, 1936",
+      "url": null
+    },
+    {
+      "text": "Mary Darby, 'In Ponzi We Trust,' Smithsonian Magazine, December 1998",
+      "url": null
+    },
+    {
+      "text": "Cunningham v. Brown, 265 U.S. 1 (1924), the Supreme Court decision unwinding the scheme's final payouts",
+      "url": null
+    }
+  ],
+  "transcript": [
+    {
+      "type": "section",
+      "title": "Cold Open"
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Frankie. Before anything else. I took a free sample today and I want it on the record that I was suspicious the entire time."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "What was the sample?"
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Cheese. Lovely man, lovely cheese, and, um, the whole walk home I'm going, nothing's free. Something is wrong with the cheese or something is wrong with me."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "You've said nothing's free as long as I've known you. It has never once stopped you taking the sample."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "It's a proverb, not a policy. Anyway. What did you bring me?"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "The man who built an empire on the exact opposite of your proverb. Boston, 1920. A little office on School Street, and a printed note that says: give me your money, and in forty-five days I hand it back plus fifty percent. Guaranteed."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Fifty percent in forty-five days. That's not an investment, that's a dare."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "The whole city took the dare. By high summer the money is coming in so fast the papers say a quarter of a million dollars a day..."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "A DAY? In nineteen twenty money?"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "And the machine behind it all, officially, was postal reply coupons. Little slips of paper you tuck in an envelope so your cousin abroad can afford the stamp to write back."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Stamps. The empire runs on stamps."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "So here's the fact I've been saving for you all week. When it came down, the auditors went through the books looking for the coupons. The mountain of coupons all of this had to be sitting on. Total value of postal reply coupons found: sixty-one dollars."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Sixty-one dollars. I have more than that in loose stamps in a drawer."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Then you're better capitalized than he was."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Okay. Um. Yes. I'm in. Grifters, settle in. I'm Ruby, she's Frankie, and this is Two Grifters."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Tonight: Charles Ponzi. The clerk who watched this exact trick eat a bank from the inside, years before he ran it himself. The city that fell in love with him while he robbed it. The newspaper that beat him with arithmetic. And how his name ended up on every scheme like it, forever."
+    },
+    {
+      "type": "section",
+      "title": "The Man With Two Dollars Fifty"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Lugo, Italy, 1882. Carlo Ponzi. Small, quick, beautifully dressed on no money at all. The family sends him to university in Rome, which he later called his four-year vacation. Cards, cafes, no degree."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "[laughs] A strong start."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "November 1903 he sails for Boston, gambles the crossing away, and walks down the gangplank with two dollars and fifty cents. He had a line about it that he polished for the rest of his life: I landed in this country with two dollars and fifty cents in cash, and a million dollars in hopes."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "It's a suspiciously good line. Did he write it on the boat?"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Everything he ever said sounds rehearsed, and that's half of tonight. Dishwasher. Then waiter, until he's fired for shortchanging the customers."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Starting small. Practicing on tips."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "1907, Montreal. He's a teller at a little bank serving Italian immigrants, Banco Zarossi. And pay attention, because this bank is the dress rehearsal. The owner pulls in depositors by paying six percent, double the going rate, and when his loans go bad he keeps paying it anyway. Out of the new deposits."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Hang on. Hang on, he didn't invent the scheme, he took a JOB at the scheme. He's behind the counter watching it run."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Start to finish, right up to the owner on a boat to Mexico with the cash box. Ponzi stays behind, broke, walks into a former client's office, finds the checkbook, and writes himself a check for four hundred and twenty-three dollars and fifty-eight cents."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "[laughs] The fifty-eight cents!"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "A round number looks invented; an odd one looks like arithmetic. It fooled nobody. Three years in a Quebec prison, and the story goes, grain of salt, that he wrote to his mother he'd found work as a special assistant to a prison warden."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Technically adjacent to the truth."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Out in 1911, caught almost immediately smuggling Italian immigrants over the border. Two more years, federal, in Atlanta. And then, Ruby, he goes straight. Years of real jobs. In Boston he meets a stenographer named Rose Gnecco, tells her everything, prisons included, and she marries him anyway, 1918."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Oh, no. She's the one I'm going to feel terrible about, isn't she."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Hold that thought for the reckoning."
+    },
+    {
+      "type": "section",
+      "title": "The Coupon"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "August 1919. He's thirty-seven, a clerk hunting for the idea that makes him somebody. A letter arrives from Spain, and inside it is a little slip called an international reply coupon."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Which is... sorry, which is what?"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Prepaid return postage. Dozens of countries agreed on it before the war: buy a coupon at your post office, mail it to me, I trade it for stamps at mine. The exchange rates were fixed in the agreement, years earlier. Then the war happens. European currencies collapse. The rates in the agreement don't move."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Ohh. So the coupon costs pennies in Rome and still trades for full stamps in Boston."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "He runs the numbers on Italy and gets, by his own claim, north of four hundred percent. And the part he led with in every pitch: none of it was illegal. Buy low there, redeem high here. Arbitrage with a stamp on it."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Then I'm confused. That sounds like a real business. Where's the con?"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "It's real the way a bridge in a painting is a real bridge. You can only redeem coupons for stamps, never cash. Nobody needs forty tons of stamps. And to move serious money you'd need shiploads of coupons that were never printed. True at the size of a letter, impossible at the size of a dollar."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "But it demos beautifully."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Perfectly. Specific, math-flavored, and just complicated enough that checking feels rude. December 1919 he opens a company, and I want you to appreciate the brass of the name: the Securities Exchange Company. An office at 27 School Street. Fifty percent in forty-five days, one hundred in ninety."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "And people hand it over?"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Slowly at first. February 1920, about five thousand dollars. He's paying agents ten percent to bring in new customers. Then the first notes come due, and he pays them. In full, on time, exactly as printed."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "With what money, Frankie."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "The new deposits. Zarossi's move, note for note. The only thing he ever really imported."
+    },
+    {
+      "type": "section",
+      "title": "The Flood"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Once the first customers got paid, Boston did his advertising for him. Every paid-out note was a walking testimonial. May, four hundred and twenty thousand dollars comes in. June, and you know I double-check sums, I checked this one twice, two and a half million."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Stop. Rule. Say June again, slowly."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Two and a half million dollars. One month. 1920 money."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Thank you. I hate it."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "July is when the ledgers stop agreeing. The papers at the time said a quarter of a million a day; some later tellings run it toward a million at the peak. When the record disagrees we say so. What nobody disputes is the line down School Street, and cash stuffed in desk drawers and wastepaper baskets because the counting couldn't keep up."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Who's the line, though? Who's handing him the money?"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "That's the part that gets me. It isn't the money men. It's the North End, where he'd been poor. Waitresses. Priests. Widows with insurance money. And by several tellings a healthy share of the Boston police, including inspectors sent to look into him who left as customers..."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "No no no. The men sent to INVESTIGATE joined the..."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "So the story goes, and it's the most believable part. From the outside there was nothing to see except people getting paid."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "I mean, fifty percent, on time, every time. My proverb never stood a chance."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "And he starts spending like the story's true. A twelve-room house in Lexington with, the papers noted breathlessly, a heated swimming pool. Chauffeured limousine, diamond stickpin, gold-handled cane. And my favorite purchase of the whole file: Hanover Trust, a bank downtown, had refused him a two-thousand-dollar loan the year before. So now, flush, he starts buying its stock, and he doesn't stop until..."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "He bought the bank. Tell me he bought the bank that said no..."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "A controlling interest. The man they wouldn't lend two thousand dollars walked back in as the largest shareholder."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "That's disgusting and it's magnificent and I need a minute."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Take it. This is the top of the ride."
+    },
+    {
+      "type": "section",
+      "title": "The Furniture Salesman"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Because here's what I love. It doesn't come apart because a detective cracks it. It comes apart starting with the most boring document in the file. A furniture bill."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "A furniture bill."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "A dealer named Joseph Daniels had sold Ponzi office furniture on credit back when he was nobody with an empty office. Daniels reads the papers calling this man a millionaire, decides his desks were practically a founding investment, and sues for a million dollars."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "[laughs] For desks?!"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "The claim went nowhere. But a million-dollar lawsuit against a name nobody knows makes the papers, and it makes the one reader who matters ask the correct question. Richard Grozier, running the Boston Post, wants to know: who is this man, and where does the money come from?"
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "To be fair to the con, the lawsuit is also free advertising. I'd bet the line got longer."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Both at once, that's the comedy of it. July 24th the Post puts him on the front page, doubles your money in three months, mostly admiring, and next morning the crowd on School Street is the biggest yet. The exposure that kills him and the exposure that feeds him are the same exposure."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Great work, everyone. Journalism."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "But Grozier doesn't drop it. He hands the arithmetic to Clarence Barron, about the most famous financial mind in the country, and Barron does the most devastating thing you can do to a con: he takes it completely seriously. Fine, says Barron. Say the business is real. How many coupons would this man have to be holding?"
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "And?"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "On the order of a hundred and sixty million. The postal authorities' figure for coupons actually circulating, worldwide: about twenty-seven thousand."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "I'm bad at numbers, famously, but hang on. A hundred and sixty million, against twenty-seven thousand. That's not a rounding problem, that's the business just... not existing."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "And Barron's second observation was ruder. Ponzi's own millions were sitting in ordinary bank accounts earning five percent. If the man owns a machine that pays fifty in forty-five days, why is his own money in the one that pays five a year?"
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Because there's no machine. He's not eating at his own restaurant. That's the tell. It's always the tell, watch where the chef eats."
+    },
+    {
+      "type": "section",
+      "title": "The Run"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "The Post prints Barron's analysis July 26th, and what happens next is a run. Thousands of people outside the office wanting out. And Ponzi makes the strangest decision of the story. He decides to win the run."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "How does anyone win a run?"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "By paying it. Every note presented, in full, on demand, with a smile. Two million dollars out the door in three days. He works the line personally, tips the boater. And he sends coffee and doughnuts down the whole queue, free..."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "The doughnuts! Nothing's free, Frankie, the doughnuts are load-bearing! He's serving refreshments on the money they came to rescue..."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "[laughs] Absolutely load-bearing. Because a paid-off crowd watches its neighbors get cash, no fuss, and a good number of people get out of the refund line and walk straight back to the deposit window."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "With the refund."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Sometimes the same physical bills. The run peters out, and the crowd starts cheering him. Somebody shouts that he's the greatest Italian of them all, and he plays it beautifully. No, no, he says. Columbus discovered America. Marconi discovered the wireless. And the shout that comes back, and the wording wobbles by the telling, but the good version is: but Charlie, you discovered money!"
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "[laughs] The crowd out-wrote him! Thirty years of rehearsing and the best line of his life comes from the queue!"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "For about ten days in the summer of 1920 he is the most beloved man in Boston. Then August 2nd, the Post runs a front-page piece under the byline of William McMasters. Ponzi's own publicist."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Wait, wait. His OWN publicist?"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Hired three weeks earlier to polish the halo. McMasters listened to his client talk money for a few days and came out convinced, his phrase, that the man was hopelessly insolvent. He took it to Grozier and put his name on it. He wrote later that Ponzi was a financial idiot who could barely add."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Um, in fairness, the adding was the one part that worked? Fifty percent, on the dot, every time?"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Paying isn't adding. The gap between those two words is the entire scheme."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Cold. Accurate, but cold."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Nine days later the Post lands the last punch: his Montreal prison record, under the name he'd used up there, mug shots on page one. Boston wakes up to its financier's prison photograph over breakfast. Same day, the state bank examiner locks the doors of Hanover Trust."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "His own bank. The trophy."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "August 12th he surrenders to the federal authorities. Eighty-six counts of mail fraud. The auditor first put the hole at three million dollars, kept digging, revised it to seven. Total taken, depending on whose ledger you trust: ten million, fifteen, some say twenty. From somewhere between twenty and forty thousand people. The record disagrees with itself. The ruin doesn't."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "And the coupons."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Sixty-one dollars' worth. You knew that already. Now you know it the way Boston learned it."
+    },
+    {
+      "type": "section",
+      "title": "Where Everyone Ended Up"
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Alright. The reckoning. Start with him, because I suspect there's an itinerary."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "There's such an itinerary. November 1920, he pleads guilty to mail fraud. Five years federal, serves three and a half. Massachusetts is waiting at the gate with larceny charges, and it takes the state three trials, because juries kept liking him."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "They'd met him. That was the problem."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "The third trial lands it, and the sentence comes with the finest job title of the night: seven to nine years, as a common and notorious thief."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "That's the... hang on, that's the actual legal phrase? On his paperwork?"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Very old Massachusetts statute. He appeals, makes bail, and while out on bail, it's 1925, so: Florida. He sets up selling building lots near Jacksonville, some of them underwater, under the name Charpon."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Char-pon. Charles Ponzi. That's the whole disguise."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "First syllable of each. The pitch this time: two hundred percent in sixty days."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "He QUADRUPLED it! He looked at the smoking crater of the first one and decided the number had been too low..."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "The one lesson he ever took. Florida convicts him too; he jumps bail, shaves his head, grows a mustache, and signs onto a freighter as a deckhand. The mustache holds until New Orleans, where they take him off the ship. Back to Massachusetts, seven years in Charlestown. Done in 1934, and there's no next act in America, because in thirty-one years he never became a citizen. Deported, October 1934, and by the accounts we have he charmed the reporters on the dock on his way out."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Of course he did. And Rose?"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Rose stayed through all of it. The trials, the visiting years. She finally divorced him in 1937, and here's the detail I can't put down: they kept writing to each other, by the accounts we have, to the end of his life."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Oh no."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Italy doesn't work out; his schemes are old news there. But a cousin with connections gets him something nobody expected. A respectable job, running the Rio de Janeiro office of an Italian airline. Brazil, 1939. A salary, an office, a title."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Ah, no. The last honest job of his life."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "And the war repossesses it; the route shuts down in 1941. After that it's small. Teaching English and French in Rio. A little translating. His eyesight goes, one eye entirely, then a stroke leaves him half-paralyzed, and in January 1949 he dies in the charity ward of a Rio hospital. His estate came to seventy-five dollars, which went to the burial. The man who took in a quarter of a million a day died with exactly enough to be put in the ground."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "And the people from the line? The waitresses and the widows?"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "The receivers spent years scraping it back, even suing the people he'd paid off in the doughnut week to return their winnings. In the end the noteholders got less than thirty cents on the dollar. One of those clawback fights went to the Supreme Court, and the decision is still cited, a century on, every time one of these things collapses."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "So he's in the law books twice. Once as the defendant and once as the word. Lustig got a nickname. This man got a dictionary entry."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "And he knew it. Late in his life he gave a reporter his own verdict on 1920, and I'll give it as it comes down to us: even if they never got anything for it, it was cheap at that price. Without malice aforethought, I had given them the best show that was ever staged in their territory since the landing of the Pilgrims. It was easily worth fifteen million bucks to watch me put the thing over."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "The best show ever staged. Everyone in that line thought they were investors. He thought they were the audience."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "And here's where our usual line breaks down, because this is not a man who almost got away with it. The math never worked for a single day. There was no almost. The almost lived entirely in the heads of forty thousand people."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "So the coupons were the prop. What he was actually selling was the almost."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "People who almost got away with it. And tonight, a man who only ever sold the feeling of it."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "The almost is the show. It's always the show."
+    },
+    {
+      "type": "section",
+      "title": "Outro"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "A confession before we go. You know I read estate-sale listings the way other people read novels."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "The most Frankie fact there is."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "At the last one, out in the driveway, there was a man with a folding table who had nothing to do with the sale. Clipboard. Receipt book with carbon paper. He was selling shares, Ruby. In a storage unit. Sealed, contents unknown, and guaranteed, his word, to triple after the auction."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Frankie."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "The receipt book had two colors of ink. It looked so much like paperwork. I had the ten out of my purse before the sensible part of me..."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "You had the money OUT? The woman who makes me verify the provenance of a sandwich..."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "The ten was out. And what saved me was not wisdom. There were three people ahead of me and my tea was going cold in the car. I left because of the queue. That's the entire defense."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "[laughs] Saved by the line! The thing that caught all of Boston is the thing that saved you!"
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "[laughs] I contain multitudes, and one of them is impatient."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Well, I paid extra for bumpy brushstrokes, so between us we're one functioning skeptic. Which brings me to the mailbox, grifters, because this week I have a specific craving. I want the best guaranteed return anyone has ever promised you. The number and the deadline, that's the recipe. Fifty percent in forty-five days, two hundred in sixty, your cousin's thing with the vending machines. Tell me the pitch, tell me if you bit, and if there were refreshments, I need to know what the refreshments were. Two grifters podcast at gmail dot com."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "All one word, two grifters podcast, at gmail dot com. Ruby is threatening to rank the offers by deadline."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "It's not a threat, it's a promise. Fifty in forty-five is the number to beat."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "And one small ask before we go, grifters. If tonight was worth your commute, leave the show five stars wherever you listen. Of all the guaranteed returns in this episode, it's the only real one."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "Five stars in five seconds. Even I can check that math."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Two Grifters is an independent show. When the record disagrees with itself, we say so on air, and the sources for every episode are in the show notes."
+    },
+    {
+      "type": "line",
+      "speaker": "Ruby",
+      "text": "And nothing's free. Except the doughnuts. No, wait..."
+    },
+    {
+      "type": "line",
+      "speaker": "Frankie",
+      "text": "Especially the doughnuts."
+    }
+  ]
+}
